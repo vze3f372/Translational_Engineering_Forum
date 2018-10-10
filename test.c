@@ -11,7 +11,7 @@
 
 int main (void){
 
-	printf("It is about time someone got to work here...");
+	printf("It is about time someone got to work here... You are not aone");
 
 
 	return 0;
